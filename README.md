@@ -18,4 +18,5 @@ ASP.NET WebƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚Ìƒuƒ‰ƒ“ƒNƒvƒƒWƒFƒNƒg‚Ìƒrƒ‹ƒhE’P‘ÌƒeƒXƒgŽ©“®‰»‚ÌƒTƒ
  - uMultibranch PipelinevƒWƒ‡ƒu‚ð‘z’è‚µ‚½ƒpƒCƒvƒ‰ƒCƒ“
  - udevelop`vƒuƒ‰ƒ“ƒ`‚Ìê‡‚Ì‚Ý’P‘ÌƒeƒXƒg‚ðŽÀs(‚»‚êˆÈŠO‚Íƒrƒ‹ƒh‚Ì‚ÝŽÀs)
  - usamplev”z‰º‚Ìƒ‚ƒWƒ…[ƒ‹‚Æƒrƒ‹ƒhƒƒO‚ð•Û‘¶
+ -  ƒTƒ“ƒvƒ‹‚Å‚Íƒ[ƒ‹’Ê’m‚Ìˆ—‚ÍƒRƒƒ“ƒgƒAƒEƒg
 
