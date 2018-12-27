@@ -70,6 +70,7 @@ pipeline {
         always{
             //成果物保存
             archiveArtifacts artifacts: '**/sample/bin/**/*', fingerprint: true
+            archiveArtifacts artifacts: '**/rebuild.log'
 
             //ワークスペースクリア
             cleanWs()
